@@ -43,7 +43,10 @@ It integrates live API data, historical datasets, and Twilio SMS alerts to notif
 ----
 ![WhatsApp Image 2026-03-22 at 2 43 06 PM](https://github.com/user-attachments/assets/451af481-75c0-4cce-b978-d6850dc324da)
 ----
-![WhatsApp Image 2026-03-22 at 2 43 15 PM](https://github.com/user-attachments/assets/a8abedff-3a5f-44e6-8bf4-182a87ca94b1)
+### 📱 SMS Alert Proof  
+When AQI crosses hazardous levels, the system sends an SMS notification — for example: “AirAware Alert: AQI in Kolkata has reached 250 (Very Unhealthy). Stay Safe.”
+
+![WhatsApp Image 2026-03-22 at 6 09 18 PM](https://github.com/user-attachments/assets/aec1628e-3053-4e38-88a2-b280e31a2879)
 
 
 ---
