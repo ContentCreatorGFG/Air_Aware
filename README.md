@@ -33,15 +33,15 @@ It integrates live API data, historical datasets, and Twilio SMS alerts to notif
 
 ## 📸 Screenshots
 
-![WhatsApp Image 2026-03-22 at 2 41 58 PM](https://github.com/user-attachments/assets/f66e8281-0e01-4ab4-965f-8c4b63bca002)
+![WhatsApp Image 2026-03-22 at 6 19 04 PM](https://github.com/user-attachments/assets/61760ca4-2dbe-43af-a3b5-d9e6c7bc0a86)
 ----
-![WhatsApp Image 2026-03-22 at 2 42 36 PM](https://github.com/user-attachments/assets/320e920d-5f98-423a-87a8-82b55364150a)
+![WhatsApp Image 2026-03-22 at 6 19 04 PM (2)](https://github.com/user-attachments/assets/60b654e4-be02-44e7-b217-8f4a2dc8afc8)
 ----
-![WhatsApp Image 2026-03-22 at 2 42 20 PM](https://github.com/user-attachments/assets/b130ba5f-7474-4e9f-87ec-f9bca0b6669d)
+![WhatsApp Image 2026-03-22 at 6 19 04 PM (1)](https://github.com/user-attachments/assets/e9a22e54-2018-4661-bc67-d09364b8d360)
 ----
-![WhatsApp Image 2026-03-22 at 2 42 55 PM](https://github.com/user-attachments/assets/4e0c7b2d-3014-422a-a5cb-04ad79227a01)
+![WhatsApp Image 2026-03-22 at 6 19 05 PM](https://github.com/user-attachments/assets/22360445-f7f5-4bdd-a554-f52911f89616)
 ----
-![WhatsApp Image 2026-03-22 at 2 43 06 PM](https://github.com/user-attachments/assets/451af481-75c0-4cce-b978-d6850dc324da)
+![WhatsApp Image 2026-03-22 at 6 23 17 PM](https://github.com/user-attachments/assets/ca7ecc1b-bcae-4940-9955-55cdf74618f9)
 ----
 ### 📱 SMS Alert Proof  
 When AQI crosses hazardous levels, the system sends an SMS notification — for example: “AirAware Alert: AQI in Kolkata has reached 250 (Very Unhealthy). Stay Safe.”
