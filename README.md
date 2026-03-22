@@ -39,8 +39,6 @@ It integrates live API data, historical datasets, and Twilio SMS alerts to notif
 ----
 ![WhatsApp Image 2026-03-22 at 2 42 20 PM](https://github.com/user-attachments/assets/b130ba5f-7474-4e9f-87ec-f9bca0b6669d)
 ----
-![WhatsApp Image 2026-03-22 at 2 42 20 PM](https://github.com/user-attachments/assets/b130ba5f-7474-4e9f-87ec-f9bca0b6669d)
-----
 ![WhatsApp Image 2026-03-22 at 2 42 55 PM](https://github.com/user-attachments/assets/4e0c7b2d-3014-422a-a5cb-04ad79227a01)
 ----
 ![WhatsApp Image 2026-03-22 at 2 43 06 PM](https://github.com/user-attachments/assets/451af481-75c0-4cce-b978-d6850dc324da)
